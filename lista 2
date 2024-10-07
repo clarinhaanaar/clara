@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Lista de Músicas Pop</title>
+</head>
+<body>
+    <h1>Lista de Músicas Pop</h1>
+    <ul>
+        <li><a href="https://www.youtube.com/watch?v=2Vv-BfVoq4g">Ed Sheeran - Perfect</a></li>
+        <li><a href="https://www.youtube.com/watch?v=k2qgadSvNyU">Dua Lipa - Don't Start Now</a></li>
+        <li><a href="https://www.youtube.com/watch?v=nm3E8ThvU6A">The Weeknd - Blinding Lights</a></li>
+        <li><a href="https://www.youtube.com/watch?v=pBuZEGYXA6E">Lady Gaga, Bradley Cooper - Shallow</a></li>
+        <li><a href="https://www.youtube.com/watch?v=4NRXx6U8ABQ">Post Malone - Circles</a></li>
+    </ul>
+</body>
+</html>
