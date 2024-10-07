@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Lista de Mercado</title>
+</head>
+<body>
+  <h1>Lista de Mercado</h1>
+  <ul>
+    <li><a href="https://www.example.com/arroz">Arroz</a></li>
+    <li><a href="https://www.example.com/feijao">Feijão</a></li>
+    <li><a href="https://www.example.com/leite">Leite</a></li>
+    <li><a href="https://www.example.com/pao">Pão</a></li>
+    <li><a href="https://www.example.com/queijo">Queijo</a></li>
+    <li><a href="https://www.example.com/frutas">Frutas</a></li>
+    <li><a href="https://www.example.com/verduras">Verduras
